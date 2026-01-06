@@ -4,8 +4,13 @@
   "commitMessageScript": "",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 5,
+<<<<<<< HEAD
   "autoPushInterval": 60,
   "autoPullInterval": 60,
+=======
+  "autoPushInterval": 0,
+  "autoPullInterval": 5,
+>>>>>>> DelMonteAJ/obsidian-notes/main
   "autoPullOnBoot": true,
   "autoCommitOnlyStaged": false,
   "disablePush": false,
@@ -19,11 +24,19 @@
   "syncMethod": "merge",
   "mergeStrategy": "none",
   "customMessageOnAutoBackup": false,
+<<<<<<< HEAD
   "autoBackupAfterFileChange": false,
   "treeStructure": false,
   "refreshSourceControl": true,
   "basePath": "",
   "differentIntervalCommitAndPush": true,
+=======
+  "autoBackupAfterFileChange": true,
+  "treeStructure": false,
+  "refreshSourceControl": false,
+  "basePath": "",
+  "differentIntervalCommitAndPush": false,
+>>>>>>> DelMonteAJ/obsidian-notes/main
   "changedFilesInStatusBar": false,
   "showedMobileNotice": true,
   "refreshSourceControlTimer": 7000,
@@ -33,7 +46,11 @@
   "gitDir": "",
   "showFileMenu": true,
   "authorInHistoryView": "hide",
+<<<<<<< HEAD
   "dateInHistoryView": true,
+=======
+  "dateInHistoryView": false,
+>>>>>>> DelMonteAJ/obsidian-notes/main
   "diffStyle": "split",
   "hunks": {
     "showSigns": false,
